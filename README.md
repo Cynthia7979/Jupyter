@@ -1,3 +1,4 @@
 # Jupyter
 A place for my jupyter notes
-NO RIGHTS RESERVED
+
+Directly copied from EnderKerman/Jupyter, but for my own notes.
